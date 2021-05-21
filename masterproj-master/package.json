@@ -8,17 +8,17 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Riddhi22patel/masterproj.git"
+    "url": "git+https://github.com/rajvivora20/masterproject.git"
   },
   "keywords": [
     "feedback"
   ],
-  "author": "team  patelriddhi25522@gmail.com",
+  "author": "team  gudiyavvora@gmail.com",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/Riddhi22patel/masterproj/issues"
+    "url": "https://github.com/rajvivora20/masterproject/issues"
   },
-  "homepage": "https://github.com/Riddhi22patel/masterproj#readme",
+  "homepage": "https://github.com/rajvivora20/masterproject#readme",
   "dependencies": {
     "body-parser": "^1.19.0",
     "express": "^4.17.1",
